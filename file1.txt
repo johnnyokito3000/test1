@@ -1,3 +1,4 @@
 Testing
 Second line of file
 Third line
+Fourth line
