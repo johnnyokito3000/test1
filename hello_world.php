@@ -1,3 +1,4 @@
 <?php
 
-echo "Hello world!";
+echo "Hello world!<br/>";
+echo "Adding a second line";
